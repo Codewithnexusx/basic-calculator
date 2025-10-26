@@ -29,3 +29,14 @@ The program uses `if-else` statements and is easy to understand for beginners wh
 
 ## 📁 Project Structure
 
+simple-calculator-in-c/
+│
+├── calculator.c // Main C program
+├── README.md // Project information
+
+---
+
+## 👨‍💻 Author
+
+Created by morcous
+insta: @ig_jin_
